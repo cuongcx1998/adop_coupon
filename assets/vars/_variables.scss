@@ -1,0 +1,57 @@
+// color
+$orange: #EE6A2F;
+
+// blue
+$blue0: #237be7;
+$blue1: #CCECFF;
+$blue2: #B4E2FE;
+$blue3: #3dd0e2;
+
+
+// default color
+$white: #fff !default;
+$dark: #333 !default;
+$gray1: #D4D7DD !default;
+
+// pink
+$pink0: #E88199;
+$pink1: #F3C8D3;
+
+// secondary
+$secondary: #ddd;
+
+//
+$max-width: 680px;
+$border-radius: 1rem;
+
+// category
+$item-sm-width: 4.25rem;
+$item-sm-height: 4.25rem;
+
+
+// blue
+$blue: $blue0 !default;
+$gradient0: $blue0 !default;
+$gradient1: $blue3 !default;
+
+// pink
+$blue: $pink0;
+$gradient0: $pink0;
+$gradient1: $pink1;
+
+// font
+$colors: (
+  "orange": $orange,
+  "blue": $blue,
+  "white": $white,
+  "dark": $dark
+) !default;
+
+@each $name, $color in $colors {
+  .bg-#{$name} {
+    background-color: $color !important;
+  }
+  .text-#{$name} {
+    color: $color !important;
+  }
+}

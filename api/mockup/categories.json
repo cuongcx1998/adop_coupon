@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "categoryName": "日本語表記01",
+    "categoryCode": "code01",
+    "categoryIcon": "https://picsum.photos/200"
+  },
+  {
+    "id": "2",
+    "categoryName": "日本語表記02",
+    "categoryCode": "code02",
+    "categoryIcon": "https://picsum.photos/200"
+  },
+  {
+    "id": "3",
+    "categoryName": "日本語表記03",
+    "categoryCode": "code03",
+    "categoryIcon": "https://picsum.photos/200"
+  },
+  {
+    "id": "4",
+    "categoryName": "日本語表記04",
+    "categoryCode": "code04",
+    "categoryIcon": "https://picsum.photos/200"
+  },
+  {
+    "id": "5",
+    "categoryName": "日本語表記05",
+    "categoryCode": "code05",
+    "categoryIcon": "https://picsum.photos/200"
+  },
+  {
+    "id": "6",
+    "categoryName": "日本語表記06",
+    "categoryCode": "code06",
+    "categoryIcon": "https://picsum.photos/200"
+  },
+  {
+    "id": "7",
+    "categoryName": "日本語表記07",
+    "categoryCode": "code07",
+    "categoryIcon": "https://picsum.photos/200"
+  },
+  {
+    "id": "8",
+    "categoryName": "日本語表記08",
+    "categoryCode": "code08",
+    "categoryIcon": "https://picsum.photos/200"
+  },
+  {
+    "id": "9",
+    "categoryName": "日本語表記09",
+    "categoryCode": "code09",
+    "categoryIcon": "https://picsum.photos/200"
+  },
+  {
+    "id": "10",
+    "categoryName": "日本語表記10",
+    "categoryCode": "code10",
+    "categoryIcon": "https://picsum.photos/200"
+  }
+]

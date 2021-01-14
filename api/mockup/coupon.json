@@ -1,0 +1,13 @@
+{
+  "QID": "1",
+  "EID": "1",
+  "QponName": "クーポン名称01",
+  "shopLogo": "https://picsum.photos/50",
+  "shopName": "ショップ名01",
+  "couponImage": "https://picsum.photos/200",
+  "startDate": "2020/12/29 07:00:00",
+  "endDate": "2020/01/29 07:00:00",
+  "qponDetail": "qponDetail01",
+  "qponNote": "qponNote",
+  "useType": "useType"
+}

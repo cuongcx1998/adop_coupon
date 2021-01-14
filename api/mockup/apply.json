@@ -1,0 +1,20 @@
+[
+  {
+    "QID": "1",
+    "useType": "useType",
+    "useDetail": "useDetail",
+    "scanCode": null
+  },
+  {
+    "QID": "2",
+    "useType": "useType",
+    "useDetail": "useDetail",
+    "scanCode": "xxxxx"
+  },
+  {
+    "QID": "3",
+    "useType": "useType",
+    "useDetail": "useDetail",
+    "scanCode": null
+  }
+]

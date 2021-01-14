@@ -1,0 +1,31 @@
+{
+  "name": "adopt_counpon",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@line/liff": "^2.6.0",
+    "@nuxtjs/axios": "^5.12.4",
+    "@nuxtjs/proxy": "^2.1.0",
+    "body-parser": "^1.19.0",
+    "core-js": "^3.6.5",
+    "dayjs": "^1.10.3",
+    "element-ui": "^2.13.2",
+    "express": "^4.17.1",
+    "nuxt": "^2.14.6",
+    "vue-i18n": "^8.22.2",
+    "vue-qr": "^2.3.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/dotenv": "^1.4.1",
+    "@nuxtjs/style-resources": "^1.0.0",
+    "node-sass": "^5.0.0",
+    "sass-loader": "^10.1.0",
+    "vue-qrcode-reader": "^2.3.16"
+  }
+}

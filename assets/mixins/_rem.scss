@@ -1,0 +1,8 @@
+// Mixin that will include the fall back px declaration as well as the calculated rem value.
+@mixin fontSize($size) {
+  font-size: toRem($size);
+}
+
+@mixin fontHiragino($type) {
+  font-family: "Hiragino Kaku Gothic Pro W#{$type}", -apple-system,BlinkMacSystemFont,"Segoe UI",Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+}

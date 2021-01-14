@@ -1,0 +1,82 @@
+[
+  {
+    "QID": "1",
+    "EID": "1",
+    "QponName": "クーポン名称01",
+    "shopLogo": "https://picsum.photos/50",
+    "shopName": "ショップ名01",
+    "couponImage": "https://picsum.photos/200"
+  },
+  {
+    "QID": "2",
+    "EID": "2",
+    "QponName": "クーポン名称02",
+    "shopLogo": "https://picsum.photos/50",
+    "shopName": "ショップ名02",
+    "couponImage": "https://picsum.photos/200"
+  },
+  {
+    "QID": "3",
+    "EID": "3",
+    "QponName": "クーポン名称03",
+    "shopLogo": "https://picsum.photos/50",
+    "shopName": "ショップ名03",
+    "couponImage": "https://picsum.photos/200"
+  },
+  {
+    "QID": "4",
+    "EID": "4",
+    "QponName": "クーポン名称04",
+    "shopLogo": "https://picsum.photos/50",
+    "shopName": "ショップ名04",
+    "couponImage": "https://picsum.photos/200"
+  },
+  {
+    "QID": "5",
+    "EID": "5",
+    "QponName": "クーポン名称05",
+    "shopLogo": "https://picsum.photos/50",
+    "shopName": "ショップ名05",
+    "couponImage": "https://picsum.photos/200"
+  },
+  {
+    "QID": "6",
+    "EID": "6",
+    "QponName": "クーポン名称06",
+    "shopLogo": "https://picsum.photos/50",
+    "shopName": "ショップ名06",
+    "couponImage": "https://picsum.photos/200"
+  },
+  {
+    "QID": "7",
+    "EID": "7",
+    "QponName": "クーポン名称07",
+    "shopLogo": "https://picsum.photos/50",
+    "shopName": "ショップ名07",
+    "couponImage": "https://picsum.photos/200"
+  },
+  {
+    "QID": "8",
+    "EID": "8",
+    "QponName": "クーポン名称08",
+    "shopLogo": "https://picsum.photos/50",
+    "shopName": "ショップ名08",
+    "couponImage": "https://picsum.photos/200"
+  },
+  {
+    "QID": "9",
+    "EID": "9",
+    "QponName": "クーポン名称09",
+    "shopLogo": "https://picsum.photos/50",
+    "shopName": "ショップ名09",
+    "couponImage": "https://picsum.photos/200"
+  },
+  {
+    "QID": "10",
+    "EID": "10",
+    "QponName": "クーポン名称10",
+    "shopLogo": "https://picsum.photos/50",
+    "shopName": "ショップ名10",
+    "couponImage": "https://picsum.photos/200"
+  }
+]
